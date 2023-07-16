@@ -1,0 +1,99 @@
+[
+    {
+        imagen: "🍌",
+        id: 1,
+        nombre: "Bananas",
+        precio: 220
+    },
+    {
+        imagen: "🍎",
+        id: 2,
+        nombre: "Manzanas",
+        precio: 200
+    },
+    {
+        imagen: "🥝",
+        id: 3,
+        nombre: "Kiwis",
+        precio: 280
+    },
+    {
+        imagen: "🍈",
+        id: 4,
+        nombre: "Melón",
+        precio: 350
+    },
+    {
+        imagen: "🍍",
+        id: 5,
+        nombre: "Piñas",
+        precio: 320
+    },
+    {
+        imagen: "🍅",
+        id: 6,
+        nombre: "Tomates",
+        precio: 140
+    },
+    {
+        imagen: "🥥",
+        id: 7,
+        nombre: "Cocos",
+        precio: 270
+    },
+    {
+        imagen: "🍉",
+        id: 8,
+        nombre: "Sandias",
+        precio: 200
+    },
+    {
+        imagen: "🍑",
+        id: 9,
+        nombre: "Duraznos",
+        precio: 310
+    },
+    {
+        imagen: "🍏",
+        id: 10,
+        nombre: "Manzana Verde",
+        precio: 250
+    },
+    {
+        imagen: "🥭",
+        id: 11,
+        nombre: "Mango",
+        precio: 290
+    },
+    {
+        imagen: "🍇",
+        id: 12,
+        nombre: "Uvas",
+        precio: 700
+    },
+    {
+        imagen: "🍐",
+        id: 13,
+        nombre: "Peras",
+        precio: 320
+    },
+    {
+        imagen: "🍒",
+        id: 14,
+        nombre: "Cerezas",
+        precio: 1100
+    },
+    {
+        imagen: "🍓",
+        id: 15,
+        nombre: "Frutillas",
+        precio: 600
+    },
+    {
+        imagen: "🍋",
+        id: 16,
+        nombre: "Limones",
+        precio: 260
+    }
+  ]
+  
